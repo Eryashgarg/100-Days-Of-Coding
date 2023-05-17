@@ -1,2 +1,2 @@
 # 100-Days-Of-Coding
-This is my journey of 100 days of coding challenge on leetcode, checkout day wise problem solutions along with link to problem.
+Embarking on a Transformative 100-Day Coding Challenge: A Repository of Daily Solutions, Problem Links, and Unwavering Growth 🌟🚀
